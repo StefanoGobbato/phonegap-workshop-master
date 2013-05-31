@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "org.coenraets.employeedirectory"
+        id          = "com.cogit.prova001"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "0.0.1">
  
-    <name>Employee Directory</name>
+    <name>GBS-Test-001</name>
  
     <description>
-        A simple employee directory application
+        Cogit Prova 001
     </description>
  
-    <author href="http://coenraets.org" email="ccoenraets@gmail.com">
-        Christophe Coenraets
+    <author href="http://cogitsoftware.it" email="stefano.gobbato@cogitsoftware.it">
+        Cogit di Gobbato Stefano E.
     </author>
  
     <feature name="http://api.phonegap.com/1.0/camera"/>
