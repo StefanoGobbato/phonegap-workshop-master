@@ -14,7 +14,10 @@
     <author href="http://cogitsoftware.it" email="stefano.gobbato@cogitsoftware.it">
         Cogit di Gobbato Stefano E.
     </author>
- 
+
+  <preference name="phonegap-version" value="2.7.0" />
+  <icon src="icon.png" />
+  
     <feature name="http://api.phonegap.com/1.0/camera"/>
     <feature name="http://api.phonegap.com/1.0/contacts"/>
     <feature name="http://api.phonegap.com/1.0/file"/>
